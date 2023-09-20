@@ -1,0 +1,30 @@
+Autor: Sebastián Gómez Valencia
+
+La colaboratividad en GitHub es fundamental para el desarrollo de proyectos de código abierto y el trabajo en equipo en el ámbito de la programación. Esta plataforma proporciona herramientas esenciales para que los desarrolladores puedan colaborar de manera efectiva en la creación, revisión y gestión de código fuente. A través de funciones como solicitudes de extracción (pull requests), problemas (issues) y ramas (branches), los equipos pueden trabajar de manera simultánea en diferentes aspectos del proyecto, facilitando la coordinación y la revisión de cambios. Además, GitHub fomenta la transparencia y la comunicación entre los colaboradores, lo que ayuda a construir comunidades activas y comprometidas en la mejora constante de proyectos de software. En resumen, la colaboratividad en GitHub es un pilar fundamental para el desarrollo colaborativo de software en todo el mundo.
+
+Algunas de las herramientas que usa y ofrece Github para el ambito colaborativo:
+
+Control de Versiones: GitHub utiliza Git, un sistema de control de versiones distribuido, que permite a los colaboradores realizar un seguimiento de los cambios en el código y revertirlos si es necesario.
+
+Forks (Bifurcaciones): Los usuarios pueden hacer bifurcaciones (forks) de proyectos existentes para crear sus propias versiones independientes. Esto es útil para probar nuevas características o realizar contribuciones sin afectar el proyecto principal.
+
+Solicitudes de Extracción (Pull Requests): Las solicitudes de extracción permiten a los colaboradores proponer cambios específicos en el código y solicitar que sean fusionados en el proyecto principal. Facilitan la revisión y el debate antes de la incorporación.
+
+Issues (Problemas): Los issues son una forma de rastrear tareas, errores o mejoras en un proyecto. Los colaboradores pueden comentar y colaborar en la resolución de problemas.
+
+Colaboración Asíncrona: GitHub permite la colaboración en todo el mundo sin importar la ubicación geográfica. Los colaboradores pueden trabajar en sus propios horarios y zonas horarias, lo que fomenta una colaboración asincrónica efectiva.
+
+Comentarios y Revisión de Código: Los colaboradores pueden realizar comentarios en líneas de código específicas dentro de una solicitud de extracción, lo que facilita la revisión y la discusión detallada.
+
+Integración Continua y Despliegue Continuo (CI/CD): GitHub integra con herramientas de CI/CD, lo que permite la automatización de pruebas y despliegues, lo que mejora la calidad y la eficiencia del proceso de desarrollo.
+
+Gráficos de Colaboradores: GitHub proporciona gráficos e informes que muestran la actividad de los colaboradores, como las contribuciones, los comentarios y las revisiones.
+
+Control de Acceso: Los repositorios pueden configurarse con diferentes niveles de acceso, como lectura, escritura o administración, para controlar quién puede contribuir y quién puede tomar decisiones clave.
+
+Notificaciones Personalizables: Los usuarios pueden personalizar las notificaciones para recibir alertas sobre actividades específicas, como cambios en el código o nuevos problemas.
+
+Gestión de Proyectos: GitHub ofrece tableros de gestión de proyectos que permiten a los equipos organizar y priorizar tareas y problemas de manera eficiente.
+
+Discusiones en Comentarios: Las discusiones en los comentarios de los issues y las solicitudes de extracción permiten a los colaboradores debatir y llegar a decisiones consensuadas.
+
